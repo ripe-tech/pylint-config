@@ -1,2 +1,3 @@
 # pylint-config
-The pylint configuration files
+
+The pylint configuration files.
